@@ -39,6 +39,5 @@ void Modele::afficher (ostream &f)
 {
 	f << m.getI() << endl;
 }
-*/
 
 //Autres methodes:
